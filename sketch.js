@@ -23,7 +23,7 @@ function setup() {
 
 	ground = new Ground(400,690,800,20);
 
-	slide1 = new Sides(850,620,200,10);
+	slide1 = new Sides(850,620,20,300);
 
 	slide2 = new Sides(745,575,10,100);
 	
